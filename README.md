@@ -2,7 +2,8 @@
 - 👀 I’m interested in HPC, Oceanography and Atmospheric Science
 - 🌱 I’m currently learning CUDA programming and multiprocessing in python 
 - 💞️ I’m looking to collaborate on ML and Python applications in Atmospheric Science and Oceanography
-- 🐧 RedHat'eer
+- 🤖 Abusing edge computing and autonomous algorithms for science
+- 🐧 RedHat, CentOS, Fedora, Debian 
 - 📫 How to reach me - just google my name
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know morse code
